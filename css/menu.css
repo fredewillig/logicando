@@ -180,7 +180,7 @@
 	}
 }
 
-@media screen and (max-width: 480px){ /*Smarthphone Paisagem*/
+@media screen and (max-width: 480px){ /*Smartphone Paisagem*/
 #menu_desktop {display: none;}
 #menu_mobile ul{
 	font-size: 16px;
@@ -237,7 +237,7 @@
 	}
 }
 
-@media screen and (max-width: 320px){ /*Smarthphone Retrato*/
+@media screen and (max-width: 320px){ /*Smartphone Retrato*/
 #menu_desktop {display: none;}
 
 #menu_mobile ul{
