@@ -15,9 +15,9 @@ article{
 
 @media screen and (max-width: 1024px){
 article{
-	background: green;
-	/*border: 1px solid #000;*/
-	height: 400px;
+	/*background: green;*/
+	border: 1px solid #000;
+	height: 100px;
 	width: 20%;
 	margin-top: 1%;
 	margin-bottom: 1%;
@@ -30,8 +30,8 @@ article{
 @media screen and (max-width: 768px){
 
 article{
-	background: green;
-	/*border: 1px solid #000;*/
+	/*background: green;*/
+	border: 1px solid #000;
 	height: 100%;
 	width: 100%;
 	margin-top: 1%;
@@ -47,8 +47,8 @@ article{
 @media screen and (max-width: 480px){
 
 article{
-	background: green;
-	/*border: 1px solid #000;*/
+	/*background: green;*/
+	border: 1px solid #000;
 	height: 100%;
 	width: 100%;
 	margin-top: 1%;
@@ -62,8 +62,8 @@ article{
 
 @media screen and (max-width: 320px){
 article{
-	background: green;
-	/*border: 1px solid #000;*/
+	/*background: green;*/
+	border: 1px solid #000;
 	height: 100%;
 	width: 100%;
 	margin-top: 1%;

@@ -12,9 +12,9 @@ aside{
 
 @media screen and (max-width: 1024px){
 aside{
-		background: blue;
-		/*border: 1px solid #000;*/
-		height: 400px;
+		/*background: blue;*/
+		border: 1px solid #000;
+		height: 100%;
 		width: 79%;
 		margin-top: 1%;
 		float: right;
@@ -25,8 +25,8 @@ aside{
 @media screen and (max-width: 768px){
 
 aside{
-		background: blue;
-		/*border: 1px solid #000;*/
+		/*background: blue;*/
+		border: 1px solid #000;
 		height: 100%;
 		width: 100%;
 		margin-top: 1%;
@@ -39,8 +39,8 @@ aside{
 @media screen and (max-width: 480px){
 
 aside{
-		background: blue;
-		/*border: 1px solid #000;*/
+		/*background: blue;*/
+		border: 1px solid #000;
 		height: 100%;
 		width: 100%;
 		margin-top: 1%;
@@ -51,8 +51,8 @@ aside{
 
 @media screen and (max-width: 320px){
 aside{
-		background: blue;
-		/*border: 1px solid #000;*/
+		/*background: blue;*/
+		border: 1px solid #000;
 		height: 100%;
 		width: 100%;
 		margin-top: 1%;
