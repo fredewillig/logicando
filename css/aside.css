@@ -1,7 +1,7 @@
 @media screen and (min-width: 1025px){
 aside{
-		background: blue;
-		/*border: 1px solid #000;*/
+		/*background: blue;*/
+		border: 1px solid #000;
 		height: 600px;
 		width: 79%;
 		margin-top: 1%;
