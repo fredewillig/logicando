@@ -1,4 +1,4 @@
-@media screen and (min-width: 769px){
+@media screen and (min-width: 1025px){
 aside{
 		background: blue;
 		/*border: 1px solid #000;*/
@@ -10,7 +10,7 @@ aside{
 	}
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1024px){
 aside{
 		background: blue;
 		/*border: 1px solid #000;*/
@@ -22,8 +22,22 @@ aside{
 	}
 }
 
+@media screen and (max-width: 768px){
+
+aside{
+		background: blue;
+		/*border: 1px solid #000;*/
+		height: 100%;
+		width: 100%;
+		margin-top: 1%;
+		float: right;
+		word-wrap: break-word;
+	}
+}
+
 /*Galaxy S3*/
 @media screen and (max-width: 480px){
+
 aside{
 		background: blue;
 		/*border: 1px solid #000;*/

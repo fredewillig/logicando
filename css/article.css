@@ -1,4 +1,4 @@
-@media screen and (min-width: 769px){
+@media screen and (min-width: 1025px){
 article{
 	background: green;
 	/*border: 1px solid #000;*/
@@ -12,7 +12,7 @@ article{
 	}
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1024px){
 article{
 	background: green;
 	/*border: 1px solid #000;*/
@@ -26,8 +26,25 @@ article{
 	}
 }
 
+@media screen and (max-width: 768px){
+
+article{
+	background: green;
+	/*border: 1px solid #000;*/
+	height: 100%;
+	width: 100%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	/*margin-left: 1px;*/
+	float: left;
+	display: none;
+	word-wrap: break-word;
+	}
+}
+
 /*Galaxy S3*/
 @media screen and (max-width: 480px){
+
 article{
 	background: green;
 	/*border: 1px solid #000;*/

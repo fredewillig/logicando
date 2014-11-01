@@ -1,4 +1,4 @@
-@media screen and (min-width: 769px){
+@media screen and (min-width: 1025px){
 footer{
 	color: white;
 	text-align: right;
@@ -9,6 +9,19 @@ footer{
 	word-wrap: break-word;
 	}
 }
+
+@media screen and (max-width: 1024px){
+footer{
+	color: white;
+	text-align: right;
+	background: black;
+	/*border: 1px solid #000;*/
+	height: 100%;
+	clear: left;
+	word-wrap: break-word;
+	}
+}
+
 
 @media screen and (max-width: 768px){
 footer{
@@ -35,7 +48,7 @@ footer{
 	}
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 480px){
 footer{
 	color: white;
 	text-align: right;
