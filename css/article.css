@@ -16,10 +16,9 @@ article{
 article{
 	/*background: green;*/
 	border: 1px solid #000;
-	height: 100%;
+	height: auto;
 	width: 20%;
 	margin-top: 1%;
-	margin-bottom: 1%;
 	/*margin-left: 1px;*/
 	float: left;
 	word-wrap: break-word;
@@ -31,10 +30,9 @@ article{
 article{
 	/*background: green;*/
 	border: 1px solid #000;
-	height: 100%;
+	height: auto;
 	width: 100%;
 	margin-top: 1%;
-	margin-bottom: 1%;
 	/*margin-left: 1px;*/
 	float: left;
 	display: none;
@@ -48,10 +46,9 @@ article{
 article{
 	/*background: green;*/
 	border: 1px solid #000;
-	height: 100%;
+	height: auto;
 	width: 100%;
 	margin-top: 1%;
-	margin-bottom: 1%;
 	/*margin-left: 1px;*/
 	float: left;
 	display: none;
@@ -63,10 +60,9 @@ article{
 article{
 	/*background: green;*/
 	border: 1px solid #000;
-	height: 100%;
+	height: auto;
 	width: 100%;
 	margin-top: 1%;
-	margin-bottom: 1%;
 	/*margin-left: 1px;*/
 	/*float: left;*/
 	display: none;

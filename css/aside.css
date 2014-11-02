@@ -16,9 +16,10 @@ aside{
 aside{
 		/*background: blue;*/
 		border: 1px solid #000;
-		height: 100%;
+		height: auto;
 		width: 79%;
 		margin-top: 1%;
+		margin-bottom: 1%;
 		float: right;
 		word-wrap: break-word;
 	}
@@ -29,9 +30,10 @@ aside{
 aside{
 		/*background: blue;*/
 		border: 1px solid #000;
-		height: 100%;
+		height: auto;
 		width: 100%;
 		margin-top: 1%;
+		margin-bottom: 1%;
 		float: right;
 		word-wrap: break-word;
 	}
@@ -43,9 +45,10 @@ aside{
 aside{
 		/*background: blue;*/
 		border: 1px solid #000;
-		height: 100%;
+		height: auto;
 		width: 100%;
 		margin-top: 1%;
+		margin-bottom: 1%;
 		float: right;
 		word-wrap: break-word;
 	}
@@ -55,9 +58,10 @@ aside{
 aside{
 		/*background: blue;*/
 		border: 1px solid #000;
-		height: 100%;
+		height: auto;
 		width: 100%;
 		margin-top: 1%;
+		margin-bottom: 1%;
 		/*float: right;*/
 		word-wrap: break-word;
 	}
