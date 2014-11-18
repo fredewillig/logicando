@@ -134,7 +134,7 @@
 	margin-top: 1%;
 	margin-left: 10%;
 	position: relative;
-	float: left;
+	float: right;
 	}
 #menu_mobile li img{
 	width: 40px;
@@ -200,7 +200,7 @@
 	
 #menu_mobile li{
 	position: relative;
-	float: left;
+	float: right;
 	width: 40px;
 	display:inline-block;
 	/*border: 1px solid #000;*/
@@ -249,7 +249,7 @@
 	margin-top: 1%;
 	margin-left: 10%;
 	position: relative;
-	float: left;
+	float: right;
 	}
 #menu_mobile li img{
 	width: 40px;
