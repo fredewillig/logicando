@@ -188,7 +188,6 @@
 	/*background: gray;*/
 	/*border: 1px solid red;*/
 	height: 30%;
-	text-align; right;
 	width: 5%;
 	margin-top: 1%;
 	margin-right: 5%;
@@ -227,6 +226,7 @@
 	position: absolute;
 	left:20%;
 	display: none;*/
+	text-align; right;
 	position:absolute;
 	top: 40px;
 	left: -45px;
