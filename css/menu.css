@@ -60,6 +60,7 @@
 
 }
 
+
 @media screen and (max-width: 1024px){ /*Tablet Paisagem */
 #menu_desktop {display: none;}
 #menu_mobile ul{
