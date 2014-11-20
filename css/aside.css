@@ -3,11 +3,16 @@ aside{
 		/*background: blue;*/
 		border: 1px solid #000;
 		height: auto;
-		width: 79%;
+		width: 75%;
+		-webkit-column-count: 3; /* Chrome, Safari, Opera */
+		-moz-column-count: 3; /* Firefox */
+		-moz-column-count: 3; /* Firefox */
+		column-count: 3;
 		margin-top: 1%;
 		float: right;
 		word-wrap: break-word;
 		margin-bottom: 1%;
+		padding: 15px 15px 15px 15px;
 		
 	}
 }
