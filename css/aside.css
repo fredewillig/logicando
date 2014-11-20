@@ -1,13 +1,12 @@
 @media screen and (min-width: 1025px){
 aside{
 		/*background: blue;*/
-		border: 1px solid #000;
 		height: auto;
 		width: 75%;
-		-webkit-column-count: 3; /* Chrome, Safari, Opera */
-		-moz-column-count: 3; /* Firefox */
-		-moz-column-count: 3; /* Firefox */
-		column-count: 3;
+		-webkit-column-count: 2; /* Chrome, Safari, Opera */
+		-moz-column-count: 2; /* Firefox */
+		text-align: justify;
+		column-count: 2;
 		margin-top: 1%;
 		float: right;
 		word-wrap: break-word;
