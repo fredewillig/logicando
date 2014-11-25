@@ -1,39 +1,31 @@
 @media screen and (min-width: 1025px){
 article{
-	/*background: green;*/
 	border: 1px solid #000;
 	height: auto;
 	width: 20%;
 	margin-top: 1%;
-	/*margin-left: 1px;*/
 	float: left;
 	word-wrap: break-word;
-	
 	}
 }
 
 @media screen and (max-width: 1024px){
 article{
-	/*background: green;*/
 	border: 1px solid #000;
 	height: auto;
 	width: 20%;
 	margin-top: 1%;
-	/*margin-left: 1px;*/
 	float: left;
 	word-wrap: break-word;
 	}
 }
 
 @media screen and (max-width: 768px){
-
 article{
-	/*background: green;*/
 	border: 1px solid #000;
 	height: auto;
 	width: 100%;
 	margin-top: 1%;
-	/*margin-left: 1px;*/
 	float: left;
 	display: none;
 	word-wrap: break-word;
@@ -42,14 +34,11 @@ article{
 
 /*Galaxy S3*/
 @media screen and (max-width: 480px){
-
 article{
-	/*background: green;*/
 	border: 1px solid #000;
 	height: auto;
 	width: 100%;
 	margin-top: 1%;
-	/*margin-left: 1px;*/
 	float: left;
 	display: none;
 	word-wrap: break-word;
@@ -58,14 +47,20 @@ article{
 
 @media screen and (max-width: 320px){
 article{
-	/*background: green;*/
 	border: 1px solid #000;
 	height: auto;
 	width: 100%;
 	margin-top: 1%;
-	/*margin-left: 1px;*/
 	/*float: left;*/
 	display: none;
 	word-wrap: break-word;
 	}
+}
+
+#menur{
+	list-style: none;
+}
+
+#menur_login{
+
 }
