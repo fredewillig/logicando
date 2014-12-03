@@ -7,6 +7,23 @@ article{
 	float: left;
 	word-wrap: break-word;
 	}
+
+
+article fieldset{
+	background-color: LightGrey;
+	}
+
+
+#login{
+	margin-left: 10px;
+	width: 150px;
+}
+
+#password{
+	margin-left: 10px;
+	width: 150px;
+}
+	
 }
 
 @media screen and (max-width: 1024px){
